@@ -1,4 +1,4 @@
-# u_w_i_test
+# unit, widget and integration test
 
 A new Flutter application.
 
